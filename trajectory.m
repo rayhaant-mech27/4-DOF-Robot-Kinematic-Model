@@ -129,12 +129,22 @@ function trajectory(robot)
     sgtitle('Trajectory Comparison: Joint-space vs Cartesian', 'FontSize', 12);
 
     % =====================================================================
-    %  Animate the joint-space trajectory
+    %  Animate the joint-space trajectory (plays once, no loop)
     % =====================================================================
-    fprintf('\n    Animating joint-space trajectory (close figure to continue)...\n');
+    fprintf('\n    Animating joint-space trajectory...\n');
 
-    figure(7);
-    robot.plot(q_traj, 'loop', 'fps', 30);
-    title('Trajectory Animation');
+    fig7 = figure(7);
+    title('Trajectory Animation — Playing once...');
+
+    try
+        % 'fps' controls speed. No 'loop' so it plays once and continues.
+        robot.plot(q_traj, 'fps', 15);
+        if ishandle(fig7)
+            title('Trajectory Animation — Complete');
+        end
+    catch animErr
+        % If the user closes the figure mid-animation, catch it gracefully
+        fprintf('    Note: Animation figure was closed early — continuing.\n');
+    end
 
 end

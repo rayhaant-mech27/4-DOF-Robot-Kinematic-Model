@@ -57,6 +57,13 @@
 
 ---
 
+## Figures
+---
+![4-DOF Workspace Visualization](media/Fig.1.png)
+
+
+---
+
 ## Running Individual Phases
 
 You can also run scripts one at a time. In the Command Window:
