@@ -59,9 +59,11 @@
 
 ## Figures
 ---
-![4-DOF Workspace Visualization](media/Fig.1.png)
-
-
+<p align="center">
+  <img src="media/Fig.1.png" alt="4-DOF Workspace Visualization">
+  <br>
+  <em>Fig 1. Workspace visualization of the 4-DOF manipulator simulated in MATLAB.</em>
+</p>
 ---
 
 ## Running Individual Phases
