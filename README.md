@@ -58,9 +58,60 @@
 ---
 
 ## Figures
----
-![4-DOF Workspace Visualization](media/Fig.1.png)
-*Fig 1. Workspace visualization of the 4-DOF manipulator simulated in MATLAB.*
+
+<p align="center">
+  <img src="media/Fig.1.png" alt="Fig.1: Robot at home position">
+  <br>
+  <em>Fig.1: Robot at home position</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.2.png" alt="Fig.2: Forward Kinematics configurations">
+  <br>
+  <em>Fig.2: Forward Kinematics configurations</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.3.png" alt="Fig.3:Inverse Kinematics solutions">
+  <br>
+  <em>Fig.3:Inverse Kinematics solutions</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.4.png" alt="Fig.4: Reachable Workspace">
+  <br>
+  <em>Fig.4: Reachable Workspace</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.5.png" alt="Fig.5:Joint Space Trajectory">
+  <br>
+  <em>Fig.5:Joint Space Trajectory</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.6.png" alt="Fig.6: Trajectory Comparisson">
+  <br>
+  <em>Fig.6: Trajectory Comparisson</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.7i.png" alt="Fig.7: Animating Trajectory">
+  <br>
+  <em>Fig.7: Animating Trajectory</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.7ii.png" alt="Fig.7: Completed Trajectory Animation">
+  <br>
+  <em>Fig.7: Completed Trajectory Animation</em>
+</p>
+
+<p align="center">
+  <img src="media/Fig.8.png" alt="Fig.8: Validated Results">
+  <br>
+  <em>Fig.8: Validated Results</em>
+</p>
 
 ---
 
