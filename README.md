@@ -156,6 +156,8 @@ validation(robot);
 
 ---
 
+## Author
+
 RAYHAAN T 
 <br>
 Final Year Mechanical Engineering Student | Robotics Enthusiast  
