@@ -153,3 +153,11 @@ validation(robot);
 | IK solution fails | Target may be outside workspace; try a closer target |
 | Figures don't open | Run `close all` then try again |
 | `transl` not found | Make sure Robotics Toolbox is on the MATLAB path |
+
+---
+
+RAYHAAN T 
+<br>
+Final Year Mechanical Engineering Student | Robotics Enthusiast  
+📍 Chennai, India  
+🔗 linkedin.com/in/rayhaan-t-742709290/
